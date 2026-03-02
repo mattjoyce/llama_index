@@ -193,3 +193,6 @@ url = {https://github.com/jerryjliu/llama_index},
 year = {2022}
 }
 ```
+
+## Changelog
+See [CHANGELOG.md](CHANGELOG.md).
